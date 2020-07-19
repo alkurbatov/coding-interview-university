@@ -239,11 +239,11 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [X] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [X] How to Get a Job at the Big 4:
+    - [X] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
@@ -265,13 +265,11 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
 - C++
-- Java
 - Python
 
 You could also use these, but read around first. There may be caveats:
 
 - JavaScript
-- Ruby
 
 Here is an article I wrote about choosing a language for the interview: [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/)
 
@@ -327,20 +325,6 @@ I haven't read these two, but they are highly rated and written by Sedgewick. He
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 
 If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
-
-### Java
-
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
-    - videos with book content (and Sedgewick!) on coursera:
-        - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
-        - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
-
-OR:
-
-- [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
-    - by Goodrich, Tamassia, Goldwasser
-    - used as optional text for CS intro course at UC Berkeley
-    - see my book report on the Python version below. This book covers the same topics.
 
 ### Python
 
